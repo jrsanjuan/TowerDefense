@@ -1,5 +1,5 @@
 # TOWERDEFENSE
-Very simple tower defense prototype.
+Very simple tower defense prototype made with Unity 5.
 
 ## CONTROLS
 - Place normal turrets with right click

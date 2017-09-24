@@ -49,6 +49,7 @@ public class NormalBullet : Bullet {
                         // Destroy target.
                         Destroy(target);
                     }
+		    Destroy(gameObject, 1);
                 }
                 // Destroy the bullet reaches his target.
                 Destroy(gameObject);

@@ -1,7 +1,7 @@
 # Tower Defense
-![Tower](https://github.com/jrsanjuan/TowerDefense/blob/master/Media/tower.gif)
-
 Very simple tower defense prototype made with Unity 5.
+
+![Tower](https://github.com/jrsanjuan/TowerDefense/blob/master/Media/tower.gif)
 
 ### Controls
 - Place normal turrets with right click.
